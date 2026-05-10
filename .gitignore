@@ -206,6 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Local datasets and vector DB (downloaded or generated; do not commit)
+# Bootcamp local data: downloaded datasets and Qdrant on-disk storage (do not commit)
+data/
 qdrant_data/
-data/*.jsonl
